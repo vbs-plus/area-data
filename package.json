@@ -1,0 +1,23 @@
+{
+  "name": "@vbs/area-data",
+  "version": "1.0.3",
+  "description": "中华人民共和国行政区数据",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "keywords": [
+    "area",
+    "area-data",
+    "china area",
+    "中国省份",
+    "行政区域代码",
+    "中华人民共和国行政区数据"
+  ],
+  "author": "eiso",
+  "license": "ISC",
+  "dependencies": {
+    "colors-console": "^1.0.3",
+    "request": "^2.88.2",
+    "validator": "^13.7.0"
+  }
+}
